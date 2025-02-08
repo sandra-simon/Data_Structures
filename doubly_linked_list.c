@@ -1,3 +1,5 @@
+/*Created a doubly linked list from a string taking each character from the string and checks if the string is palindrome or not*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
